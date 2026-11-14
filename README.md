@@ -1,3 +1,3 @@
 # aubekerof.github.io
 
-The website of Notch Mirror: https://aubekerof.github.io/notch-mirror/
+The website of Mirror Notch: https://aubekerof.github.io/mirror-notch/
